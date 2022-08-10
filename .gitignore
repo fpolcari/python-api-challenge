@@ -1,3 +1,6 @@
+# ignore the push  / modifications of the config file
+api_keys.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
